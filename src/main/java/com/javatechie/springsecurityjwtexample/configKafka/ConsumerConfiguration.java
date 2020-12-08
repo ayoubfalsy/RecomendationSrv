@@ -15,6 +15,7 @@ import org.springframework.kafka.support.serializer.JsonSerializer;
 import java.util.HashMap;
 import java.util.Map;
 
+//tets ayub
 @EnableKafka
 @Configuration
 public class ConsumerConfiguration {
